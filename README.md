@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @preenu91
+- 👋 Hi, I’m Preenu Ann
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Machine Learning,Deep Learning
 - 💞️ I’m looking to collaborate on ...
