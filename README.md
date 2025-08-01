@@ -6,11 +6,12 @@
 - 📫 How to reach me preenu91@gmail.com
 - 
 ## 🛠️ Technologies & Tools
-- **Languages**: C, C++, Python
+- **Languages**: C, C++, Embedded C,Python
 - **Embedded Platforms**: STM32, ARM Cortex-M
+- **Frameworks & APIs**: Qt (GUI, signals/slots), IPC (pipes, shared memory, semaphores), multithreading
 - **RTOS**: FreeRTOS
 - **Protocols**: SPI, I2C, UART
-- **Tools**: STM32CubeIDE
+- **Tools**: STM32CubeIDE, Git, SVN, Bitbucket, Jira, cppCheck, GDB, Valgrind, Redmine, TestRail
 - **Version Control**: Git, GitHub, SVN
 <!---
 preenu91/preenu91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
