@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Preenu Ann
-- I’m an **Embedded Software Engineer** with a passion for developing efficient, reliable, and high-performance embedded systems. I specialize in **C and C++**, **FreeRTOS**, **STM32**, and firmware development. I enjoy working on projects that require hardware-software integration and problem-solving in resource-constrained environments.
+- I’m an ** Software Engineer** with a passion for developing efficient, reliable, and high-performance  systems. I specialize in **C and C++**, **FreeRTOS**, **STM32**, and firmware development. I enjoy working on projects that require hardware-software integration and problem-solving in resource-constrained environments.
 -  🎓 B.Tech in Electronics and Communication Engineering| M.Tech in Communication and Info Systems | MSc Data Science
 -  💻 I code in C, C++ (Qt, STL), and Python
 - 🐧 Linux enthusiast, exploring Kernel Engineering
