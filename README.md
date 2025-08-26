@@ -15,6 +15,8 @@
 - **Protocols**: SPI, I2C, UART
 - **Tools**: STM32CubeIDE, Git, SVN, Bitbucket, Jira, cppCheck, GDB, Valgrind, Redmine, TestRail
 - **Version Control**: Git, GitHub, SVN
+- **Build Systems**: 		Makefile, CMake
+- **Database**: 			SQLite 
 <!---
 preenu91/preenu91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
